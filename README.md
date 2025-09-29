@@ -42,7 +42,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
-👉 [Go to my site homepage](index.md)
+👉 [Go to my site homepage](https://github.com/maneloutmoun/skills-github-pages/blob/main/index.md)
 
 <!--
   <<< Author notes: Footer >>>
