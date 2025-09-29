@@ -8,6 +8,8 @@
 -->
 
 # GitHub Pages
+👉 [Go to my site homepage](https://github.com/maneloutmoun/skills-github-pages/blob/main/index.md)
+👉 [Go to my site homepage](index.md)
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
